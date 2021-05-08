@@ -14,7 +14,7 @@
                         </div>
                     @endif
                     <example-component></example-component>
-                    {{ __('You are logged in!') }}
+                    {{ __('You are asdasdasdasdad in!') }}
                 </div>
             </div>
         </div>
