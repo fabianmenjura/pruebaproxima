@@ -14,7 +14,7 @@
                         </div>
                     @endif
                     <example-component></example-component>
-                    {{ __('You are asdasdasdasdad in!') }}
+                    {{ __('You are in!') }}
                 </div>
             </div>
         </div>
